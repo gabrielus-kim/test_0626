@@ -43,7 +43,7 @@ Thank you for using nginx.
 ~~~
 
 ## 크롬에서 실행 확인
-![ex_screenshot](./pictures/캡쳐.png)
+![ex_screenshot](images_folder/캡쳐.png)
 
 ## docker push 로 docker hub 에 등록
 ~~~
