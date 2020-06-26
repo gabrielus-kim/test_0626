@@ -53,3 +53,8 @@ c0cf9e33ac9c: Preparing
 ec1817c93e7c: Preparing
 
 ~~~
+
+
+# docker hub 에서 등록 확인
+
+docker pull gabriel111/test_0626
