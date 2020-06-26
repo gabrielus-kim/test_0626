@@ -61,3 +61,11 @@ ec1817c93e7c: Preparing
 # docker hub 에서 등록 확인
 
 docker pull gabriel111/test_0626
+
+# Kubernetes container Deploy
+
+k8s.sh
+~~~
+kubectl run Nginx --image=gabriel111/test_0626 --port=80
+kubectl scale deployment Nginx --replicas=10
+~~~
