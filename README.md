@@ -42,3 +42,14 @@ Commercial support is available at nginx.com.
 Thank you for using nginx.
 ~~~
 
+## docker push 로 docker hub 에 등록
+~~~
+user@DESKTOP-14530KF MINGW64 ~/test_0626 (master)
+$ docker push gabriel111/test_0626
+The push refers to repository [docker.io/gabriel111/test_0626]
+d7cda0ea0a2a: Preparing
+c0cf9e33ac9c: Preparing
+05f3b67ed530: Preparing
+ec1817c93e7c: Preparing
+
+~~~
