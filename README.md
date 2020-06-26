@@ -31,3 +31,14 @@ user@DESKTOP-14530KF MINGW64 ~/test_0626 (master)
 $ winpty docker run -it --name n1 -p 8888:80 gabriel111/test_0626
 ~~~
 
+##  크롬에서 localhost:8888  로  확인 완료
+~~~
+Welcome to nginx!
+If you see this page, the nginx web server is successfully installed and working. Further configuration is required.
+
+For online documentation and support please refer to nginx.org.
+Commercial support is available at nginx.com.
+
+Thank you for using nginx.
+~~~
+
