@@ -42,6 +42,9 @@ Commercial support is available at nginx.com.
 Thank you for using nginx.
 ~~~
 
+## 크롬에서 실행 확인
+![크롬 화면](캡쳐.png)
+
 ## docker push 로 docker hub 에 등록
 ~~~
 user@DESKTOP-14530KF MINGW64 ~/test_0626 (master)
